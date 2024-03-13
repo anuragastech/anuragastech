@@ -1,5 +1,5 @@
 
-# Hi there, I'm Anurag P! 👋
+# Hi there, I'm Anurag ! 👋
 
 I'm a MERN Stack Developer 
 ## 🚀 Skills
