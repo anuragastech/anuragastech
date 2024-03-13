@@ -27,10 +27,6 @@ Here's a project I've worked on:
 
 - **B.Com** from Calicut University
 
-## 🏆 Certifications
-
-- **[Certification Name]** from [Issuing Organization] ([Year of Certification])
-
 ## 📫 Get in Touch
 
 Feel free to reach out to me through the following channels:
