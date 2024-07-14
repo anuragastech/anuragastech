@@ -1,4 +1,4 @@
-![log]()
+![log](https://github.com/anuragastech/anuragastech/blob/main/gitimage.gif)
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
