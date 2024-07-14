@@ -1,4 +1,4 @@
-![log](https://github.com/anuragastech/anuragastech/blob/main/typinggif)
+![log](https://github.com/anuragastech/anuragastech/blob/main/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
