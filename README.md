@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw0EhO4Bwo-LrjLenBbPdDC2&ust=1721072630793000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCO7LOlp4cDFQAAAAAdAAAAABAE" >
+<img align="Right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 - 🌱 I’m currently learning **Html,css,javascript,react**
 
 - 📫 How to reach me **anuragraveendren98@gmail.com**
